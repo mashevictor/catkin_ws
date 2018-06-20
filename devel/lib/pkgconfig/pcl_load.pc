@@ -1,0 +1,8 @@
+prefix=/home/victor/catkin_ws/devel
+
+Name: pcl_load
+Description: Description of pcl_load
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/victor/catkin_ws/devel/lib 
+Requires: 

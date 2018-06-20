@@ -1,0 +1,8 @@
+prefix=/home/victor/catkin_ws/devel
+
+Name: opencvtest
+Description: Description of opencvtest
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/victor/catkin_ws/devel/lib 
+Requires: 
